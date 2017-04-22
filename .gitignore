@@ -1,0 +1,10 @@
+.idea
+deployment
+userlib/*
+.classpath
+.project
+SlackConnector.iml
+*.bak
+*.lock
+*.launch
+DIST
